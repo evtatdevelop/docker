@@ -1,6 +1,6 @@
 import calendar
 
-print('Welcome to calendar\n')
+print('Welcome to new calendar\n')
 
 year = int(input('Enter year: '))
 month = int(input('Enter num of any month: '))
